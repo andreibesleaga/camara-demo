@@ -1,2 +1,2 @@
 # camara-demo
-CAMARA SDK &amp; MCP DEMO
+CAMARA SDK, MCP, DEMO APP
